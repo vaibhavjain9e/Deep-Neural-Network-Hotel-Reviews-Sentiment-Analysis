@@ -1,4 +1,4 @@
-# Deep-Neural-Network-Hotel-Reviews-Sentiment-Analysis
+# Visualization of word embeddings using deep learning
 Deep Neural Network - Hotel Reviews – Sentiment Analysis
 
 •	Built 3-layer neural network over document vectors where output classifies each document review as (positive/negative) and (truthful/deceptive)
